@@ -8,6 +8,6 @@ This dataset includes IPL 2008-2016 data with 6 inter-connected tables :
 3. Player.csv
 4. Player_Match.csv
 5. Season.csv
-6. Team.csv
+6. Team.csv \
 I have also provided the Schema image to understand the relationship and inter-connectedness within the tables.
 And in the portfolio.sql file, I have written the data analysis queries.
